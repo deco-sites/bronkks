@@ -7,7 +7,7 @@
     "hide": {
       "logo": false,
       "mobileApps": false,
-      "newsletter": false,
+      "newsletter": true,
       "socialLinks": false,
       "regionOptions": false
     },
@@ -21,7 +21,7 @@
         "label": "Facebook"
       },
       {
-        "link": "http://deco.cx/",
+        "link": "https://www.instagram.com/usebronkks",
         "label": "Instagram"
       },
       {
@@ -163,9 +163,7 @@
   "newsletter": {
     "form": {
       "helpText": "<p>Ao se inscrever, você está aceitando nossa <a href=\"/\" class=\"link\">Política de Privacidade</a>.</p>"
-    },
-    "title": "Assine nossa newsletter",
-    "description": "Participe e ganhe 10% de desconto na primeira compra"
+    }
   },
   "backToTheTop": {
     "text": "Voltar ao topo"
