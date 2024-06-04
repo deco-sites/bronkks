@@ -2,7 +2,41 @@
   "name": "Home",
   "sections": [
     {
-      "__resolveType": "Header - 01"
+      "__resolveType": "site/sections/Header/Header.tsx",
+      "cart": {
+        "freeShippingObjectiveQuantity": 600
+      },
+      "logo": {
+        "alt": "Bronkks logo",
+        "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10618/5c8af5d9-954f-44cf-aabb-2ff3cef45ba3",
+        "width": 100,
+        "height": 100
+      },
+      "alerts": [],
+      "navItems": {
+        "__resolveType": "navbar"
+      },
+      "products": [],
+      "searchbar": {
+        "name": "q",
+        "action": "/s",
+        "loader": {
+          "data": {
+            "count": 4,
+            "__resolveType": "vtex/loaders/intelligentSearch/suggestions.ts"
+          },
+          "__resolveType": "resolved"
+        },
+        "placeholder": "O que você esta procurando"
+      },
+      "suggestions": {
+        "products": [],
+        "searches": []
+      },
+      "logoPosition": "center",
+      "buttons": {
+        "hideCartButton": false
+      }
     },
     {
       "__resolveType": "website/flags/multivariate/section.ts",

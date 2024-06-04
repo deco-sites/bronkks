@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://bronkks-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "6335dc2444689a75954d923c80e1c3ce41e48ce9fe1b51d0605269fa44580e9299a6cc28f7f369c2063166776717d44220705096952777fe2b65904d6c269952115479d01794d1f42c347895d5d6aee56cfd3802889bf163bb5cee5a9ff00044b151210bf336a7bdefde23236ff68e9807884c2c337f2724db7454d301fb42dab6183aa1b4bab3270606f48c43552a8403d727784a0c7326a7fe5880c2d38881d5e87fb2516bf842595ec0885bc39d7a5dbc644d39d39eac1c75f7cdd80c2665e47ccbe773d5f41bc4836b38ffdced4dbe4a87f87bd48e7534723fc33c359aba"
+  }
+}

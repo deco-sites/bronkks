@@ -1,13 +1,14 @@
 {
   "seo": {
     "type": "website",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/2177/a5d890ba-e5b8-471e-8b77-7412c1d4fa56",
-    "title": "Bronx",
+    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10618/328d6f29-2354-4cbf-b487-abc301e62b16",
+    "title": "bronkks",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx ",
-    "titleTemplate": "%s | deco.cx",
-    "descriptionTemplate": "%s | Deco.cx"
+    "titleTemplate": "%s | bronkks",
+    "descriptionTemplate": "%s | bronkks",
+    "description": "Compre roupas masculinas na bronkks store",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10618/ee24d896-b241-4dfb-9e46-5408ddc539e1"
   },
   "theme": {
     "__resolveType": "Fashion theme"
@@ -54,7 +55,7 @@
   "commerce": {
     "platform": "other"
   },
-  "platform": "vtex",
+  "platform": "shopify",
   "__resolveType": "site/apps/site.ts",
   "firstByteThresholdMS": true,
   "abTesting": {
@@ -62,5 +63,8 @@
     "includeScriptsToHead": {
       "includes": []
     }
+  },
+  "flavor": {
+    "framework": "fresh"
   }
 }
